@@ -1,0 +1,19 @@
+#include "Practica.h"
+#include <ctime>
+#include <cstddef>
+#include <iostream>
+#include <cstring>
+#include <cctype>
+#include <fstream>
+#include "Basquet.h"
+#include "Futbol.h"
+#include "Bicicleta.h"
+#include "Boxeo.h"
+#include "Correr.h"
+#include "Caminar.h"
+#include "Natacion.h"
+#include "Remo.h"
+#include "Tennis.h"
+#include "Definiciones.h"
+#include <string>
+using namespace std;
